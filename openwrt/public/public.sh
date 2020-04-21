@@ -1,6 +1,6 @@
 # cd $WORK_PATH 目录下,先运行的 public.h -> 设备.h -> scripts/feeds install -a
 # 必须的文件
-# device_name='G-DOCK'      # 设备名，放到了单独设备的sh文件中了
+# device_name='HC5962'      # 设备名，放到了单独设备的sh文件中了
 # wifi_name="OpenWrt"       # Wifi 名字 ,放到了单独设备的sh文件中了
 lan_ip='192.168.2.1'        # Lan Ip地址
 utc_name='Asia\/Shanghai'   # 时区
